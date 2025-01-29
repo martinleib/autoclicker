@@ -1,5 +1,6 @@
 # Autoclicker
 There is absolutely no way Windows Defender is letting this POS run
+
 Powered by .NET 9.0, nicotine and yerba mate. Made with ❤️ by Martin Leib
 
 ## Features
